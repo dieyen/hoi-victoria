@@ -5,6 +5,8 @@
  democratic_noun:0 "Democracy"
  fascism:0 "Fascist"
  fascism_noun:0 "Fascism"
+ monarchy:0 "Monarchist"
+ monarchy_desc:0 "Monarchy"
  fascism_desc:0 "Totalitarian Regime"
  communism_desc:0 "Totalitarian Regime"
  democratic_desc:0 "Democratic Regime"
